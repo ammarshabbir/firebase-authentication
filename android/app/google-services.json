@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50988517597",
+    "project_id": "firestore-basic-914c5",
+    "storage_bucket": "firestore-basic-914c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50988517597:android:57116879a8aa6124f57334",
+        "android_client_info": {
+          "package_name": "com.ammar.firstore_basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50988517597-4jk62j9hnnp4afe014iu5cpnq21he29u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6zYYaWejWpYddZB2y4O44IsTRvWQbnPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50988517597-4jk62j9hnnp4afe014iu5cpnq21he29u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
